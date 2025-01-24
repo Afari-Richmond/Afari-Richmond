@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Afari-Richmond
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate with everyone 
-- 📫 How to reach me Afari Richmond on fb
+# Hi, I'm Richmond Addo Afari! 👋  
+
+I'm a software engineer who loves building apps and solving problems with code. I enjoy creating easy-to-use and efficient software that helps people.  
+
+In my free time, I like learning new things, trying out new tech, and working on fun projects.  
+
 
 <!---
 Afari-Richmond/Afari-Richmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
