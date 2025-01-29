@@ -26,7 +26,7 @@ Here are some of the tools and technologies I work with:
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Netlify](https://skillicons.dev/icons?i=netlify)
+![Netlify](https://skillicons.dev/icons?i=vercel)
 ![NPM](https://skillicons.dev/icons?i=npm)
 
 
