@@ -32,6 +32,12 @@ Here are some of the tools and technologies I work with:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afari-Richmond&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afari-Richmond&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Afari-Richmond&theme=radical)
+
+
+
 
 
 
