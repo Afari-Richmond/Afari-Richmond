@@ -30,6 +30,9 @@ Here are some of the tools and technologies I work with:
 ![NPM](https://skillicons.dev/icons?i=npm)
 
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afari-Richmond&show_icons=true&theme=radical)
+
+
 
 
 
