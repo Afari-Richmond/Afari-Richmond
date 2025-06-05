@@ -28,8 +28,9 @@ Here are some of the tools and technologies I work with:
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Netlify](https://skillicons.dev/icons?i=vercel)
 ![NPM](https://skillicons.dev/icons?i=npm)
-<img src="https://cdn.simpleicons.org/python" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" />
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 
 
