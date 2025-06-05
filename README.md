@@ -1,6 +1,6 @@
 # Hi, I'm Richmond Addo Afari! 👋  
 
-I'm a software engineer who loves building apps and solving problems with code. I enjoy creating easy-to-use and efficient software that helps people.  
+I'm a Software Engineer who loves building apps and solving problems with code. I enjoy creating easy-to-use and efficient software that helps people.  
 
 In my free time, I like learning new things, trying out new tech, and working on fun projects.  
 
@@ -9,8 +9,10 @@ In my free time, I like learning new things, trying out new tech, and working on
 Here are some of the tools and technologies I work with: 
 
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -28,8 +30,7 @@ Here are some of the tools and technologies I work with:
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Netlify](https://skillicons.dev/icons?i=vercel)
 ![NPM](https://skillicons.dev/icons?i=npm)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 
 
