@@ -28,6 +28,9 @@ Here are some of the tools and technologies I work with:
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Netlify](https://skillicons.dev/icons?i=vercel)
 ![NPM](https://skillicons.dev/icons?i=npm)
+<img src="https://cdn.simpleicons.org/python" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" />
+
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afari-Richmond&show_icons=true&theme=radical)
