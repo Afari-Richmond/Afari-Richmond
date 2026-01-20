@@ -8,7 +8,7 @@ In my free time, I like learning new things, trying out new tech, and working on
 
 Here are some of the tools and technologies I work with: 
 
-![React / React Native](https://skillicons.dev/icons?i=react)
+![React](https://skillicons.dev/icons?i=react)
 ![Expo](https://skillicons.dev/icons?i=expo)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
