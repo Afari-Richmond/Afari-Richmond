@@ -9,24 +9,33 @@ In my free time, I like learning new things, trying out new tech, and working on
 Here are some of the tools and technologies I work with: 
 
 ![React](https://skillicons.dev/icons?i=react)
+![React Native](https://skillicons.dev/icons?i=react)
+![Expo](https://skillicons.dev/icons?i=expo)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![AWS](https://skillicons.dev/icons?i=aws)
+
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
+
 
 
 
