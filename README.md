@@ -1,6 +1,6 @@
 # Hi, I'm Richmond Addo Afari! 👋
 
-I'm a Software Engineer & DevOps Enthusiast who loves building apps, automating infrastructure, and solving problems with code. I enjoy creating easy-to-use, efficient software and reliable, scalable systems that help people. I am also a Cloud Engineering enthusiast holding an internationally recognized certification in Cloud Computing (AWS).
+I'm a Software Engineer & DevOps Engineer who loves building apps, automating infrastructure, and solving problems with code. I enjoy creating easy-to-use, efficient software and reliable, scalable systems that help people. I also work in Cloud Engineering and hold an internationally recognized certification in Cloud Computing (AWS).
 
 In my free time, I like learning new things, trying out new tech, and working on fun projects.
 
