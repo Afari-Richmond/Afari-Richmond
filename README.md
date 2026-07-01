@@ -1,60 +1,60 @@
-# Hi, I'm Richmond Addo Afari! 👋  
+# Hi, I'm Richmond Addo Afari! 👋
 
-I'm a Software Engineer who loves building apps and solving problems with code. I enjoy creating easy-to-use and efficient software that helps people. I am also a Cloud Engineering unthusiast holding an internationally recognized certification in Cloud Computing(AWS).   
+I'm a Software Engineer & DevOps Enthusiast who loves building apps, automating infrastructure, and solving problems with code. I enjoy creating easy-to-use, efficient software and reliable, scalable systems that help people. I am also a Cloud Engineering enthusiast holding an internationally recognized certification in Cloud Computing (AWS).
 
-In my free time, I like learning new things, trying out new tech, and working on fun projects.  
+In my free time, I like learning new things, trying out new tech, and working on fun projects.
 
-## Tech Stack 🛠️  
+## Tech Stack 🛠️
 
-Here are some of the tools and technologies I work with: 
-
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+### Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Go](https://skillicons.dev/icons?i=go)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 
+### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Django](https://skillicons.dev/icons?i=django)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+### DevOps & Cloud
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Grafana](https://skillicons.dev/icons?i=grafana)
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+
+### Tools & Design
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![AWS](https://skillicons.dev/icons?i=aws)
-
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
-
-
-
-
-
-
-
+## GitHub Stats 📊
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afari-Richmond&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afari-Richmond&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Afari-Richmond&theme=radical)
-
-
-
-
-
-
-
-
 
 <!---
 Afari-Richmond/Afari-Richmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
