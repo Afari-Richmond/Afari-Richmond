@@ -1,10 +1,10 @@
-# Hi, I'm Richmond Addo Afari! 👋
+# Hi, I'm Richmond Addo Afari! 
 
 I'm a Software Engineer & DevOps Engineer who loves building apps, automating infrastructure, and solving problems with code. I enjoy creating easy-to-use, efficient software and reliable, scalable systems that help people. I also work in Cloud Engineering and hold an internationally recognized certification in Cloud Computing (AWS).
 
 In my free time, I like learning new things, trying out new tech, and working on fun projects.
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 ### Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -50,13 +50,10 @@ In my free time, I like learning new things, trying out new tech, and working on
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-## GitHub Stats 📊
+## GitHub Stats 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afari-Richmond&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afari-Richmond&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Afari-Richmond&theme=radical)
 
-<!---
-Afari-Richmond/Afari-Richmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
