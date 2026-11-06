@@ -11,6 +11,8 @@ In my free time, I like learning new things, trying out new tech, and working on
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Go](https://skillicons.dev/icons?i=go)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 
